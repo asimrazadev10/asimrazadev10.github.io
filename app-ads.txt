@@ -1,0 +1,8 @@
+# app-ads.txt for RozTool (AdMob / ads.txt for apps)
+#
+# ACTION REQUIRED: replace pub-XXXXXXXXXXXXXXXX below with the real
+# AdMob publisher ID (AdMob console > Settings > Account info, format
+# pub- followed by 16 digits), then remove the leading "# " from the
+# data line. Do NOT use Google's sample/test publisher ID.
+#
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
